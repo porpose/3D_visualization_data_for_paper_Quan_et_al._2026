@@ -5,7 +5,9 @@
 
 - `clump2.html`, `clump4.html`: two 3D interactive visualizations for dense gas cores and magnetic fields
 - `make_visualizations.ipynb` : Python code for making visualizations
-- `thres30ini_snap84_clump_core.pickle`: 3D MHD simulation data
+- `thres30ini_snap84_clump_core.pickle`: 3D MHD simulation data, see download link below
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/10.5281/zenodo.1234567)
 
 ### Requirements
 
@@ -15,4 +17,4 @@
 
 ### Usage
 
-Open and run `make_visualizations.ipynb`
+First download the simulation pickle file from, then open and run `make_visualizations.ipynb`
