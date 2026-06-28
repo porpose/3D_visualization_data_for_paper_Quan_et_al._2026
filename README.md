@@ -1,7 +1,10 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20923869.svg)](https://doi.org/10.5281/zenodo.20923869)
+
 # 3D visualization data for paper Quan et al. 2026
+
 3D `pyvista` visualizations and associated data for the paper *Projection Is All You Need: Interpreting Polarization Measurements in the Orion Clouds with Sub-Alfvénic MHD Simulations*
 
-### List of files
+## List of files
 
 - `clump2.html`, `clump4.html`: two 3D interactive visualizations for dense gas cores and magnetic fields
 - `make_visualizations.ipynb` : Python code for making visualizations
@@ -9,12 +12,12 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20923869.svg)](https://doi.org/10.5281/zenodo.20923869)
 
-### Requirements
+## Requirements
 
 - `matplotlib`
 - `numpy`
 - `pyvista`
 
-### Usage
+## Usage
 
-First download the simulation pickle file from, then open and run `make_visualizations.ipynb`
+First download the simulation pickle file from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20923869.svg)](https://doi.org/10.5281/zenodo.20923869), then open and run `make_visualizations.ipynb`
