@@ -10,8 +10,6 @@
 - `make_visualizations.ipynb` : Python code for making visualizations
 - `thres30ini_snap84_clump_core.pickle`: 3D MHD simulation data, see download link below
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20923869.svg)](https://doi.org/10.5281/zenodo.20923869)
-
 ## Requirements
 
 - `matplotlib`
@@ -20,4 +18,4 @@
 
 ## Usage
 
-First download the simulation pickle file from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20923869.svg)](https://doi.org/10.5281/zenodo.20923869), then open and run `make_visualizations.ipynb`
+First download the simulation pickle file from [Zenodo](https://doi.org/10.5281/zenodo.20923869), then open and run `make_visualizations.ipynb`
