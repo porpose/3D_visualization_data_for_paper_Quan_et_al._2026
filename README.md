@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20923459.svg)](https://doi.org/10.5281/zenodo.20923869)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20923459.svg)](https://doi.org/10.5281/zenodo.20923459)
 
 # 3D visualization data for paper Quan et al. 2026
 
