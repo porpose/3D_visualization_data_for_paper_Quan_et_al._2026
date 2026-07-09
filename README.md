@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20923869.svg)](https://doi.org/10.5281/zenodo.20923869)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20923459.svg)](https://doi.org/10.5281/zenodo.20923869)
 
 # 3D visualization data for paper Quan et al. 2026
 
@@ -18,4 +18,4 @@
 
 ## Usage
 
-First download the simulation pickle file from [Zenodo](https://doi.org/10.5281/zenodo.20923869), then open and run `make_visualizations.ipynb`
+First download the simulation pickle file from [Zenodo](https://doi.org/10.5281/zenodo.20923459), then open and run `make_visualizations.ipynb`
